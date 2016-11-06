@@ -1,8 +1,8 @@
 
-Touchy MIDI Controler Firmware
-==============================
+Touchy MIDI Controller Firmware
+===============================
 
-This is the firmware for Touchy using the MIDI controller adapter. This is a MIDI adapter for the [Touchy Project](http://www.boldport.com/products/touchy) of the [Boldport Club](http://boldport.club).
+This is the firmware for Touchy using the MIDI controller adapter. This is a MIDI adapter for the [Touchy project](http://www.boldport.com/products/touchy) of the [Boldport Club](http://boldport.club).
 
 All generated files and any file with a copyright were removed from this repository. Before a build, you have to regenerate all these files.
 
