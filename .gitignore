@@ -31,3 +31,13 @@
 # Debug files
 *.dSYM/
 *.su
+*Release/*
+lib/
+src/SILABS_STARTUP.A51
+inc/InitDevice.h
+inc/config/cslib_config.h
+.settings/
+inc/config/cslib_hwconfig.h
+inc/config/cslib_sensor_descriptors.h
+src/InitDevice.c
+*Debug/*
